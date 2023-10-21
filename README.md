@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niseaka-202
 - 👀 I’m interested in ...Japanese Vtuber
 - 🌱 I’m currently learning ...Js mtml css 
-- 💞️ I’m looking to collaborate on ...assistant director
+- 💞️ I’m looking to collaborate on ...programmer
 - 📫 How to reach me ...from akairo5288@gmail.com
 
 <!---
